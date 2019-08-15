@@ -29,5 +29,6 @@
 
 
 https://www.fireeye.com/blog/threat-research/2016/06/irongate_ics_malware.html
+https://ics.sans.org/blog/2016/06/02/irongate-malware-thoughts-and-lessons-learned-for-icsscada-defenders
 
 
