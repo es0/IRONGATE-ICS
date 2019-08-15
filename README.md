@@ -18,6 +18,11 @@
       - Acts as a proxy by forwarding all calls except ReadDataBlockValue to Step7ConMgr.dll(renamed original file)
       - Drops calls to WriteDataBlockValue
       - Instead executes hardcoded values.
+       ```
+        short num = 30563;
+        this.WriteInputPoint(272, 0, (object) num);
+        this.WriteInputPoint(276, 0, (object) num);
+        ```
   
 
 ## FOR RESEARCH PURPOSES ONLY! DO NOT MISUSE!!!
