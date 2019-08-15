@@ -1,7 +1,7 @@
 # IRONGATE-ICS
 
-## Decompiled code for the Irongate ICS malware.
-(This malware appears to have been a PoC or research as it only works in a spacificly configured simulated enviornment)
+## Decompiled code for the Irongate ICS malware. (I did NOT write this)
+(This malware appears to have been a PoC or research as it only works in a specifically configured simulated enviornment)
 
 ## -SCADA 
     - Scans filesystem for Step7ProSim.dll 
@@ -20,7 +20,7 @@
       - Instead executes hardcoded values.
   
 
-## FOR RESEARCH PURPOSES ONLY! 
+## FOR RESEARCH PURPOSES ONLY! DO NOT MISUSE!!!
 
 
 https://www.fireeye.com/blog/threat-research/2016/06/irongate_ics_malware.html
